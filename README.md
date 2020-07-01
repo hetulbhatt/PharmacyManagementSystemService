@@ -1,4 +1,4 @@
-# PharmacyManagementSystemService
+# Pharmacy Management System Service
 
 Pharmacy management system is a Windows Communication Foundation based software used to manage commercial overhead of any pharmaceutical store by easing out stock and contact management as well as management of ledger for the same.
 
@@ -12,10 +12,10 @@ medicine, not only it gets reflected into the ledger, but the necessary updates 
 also carried out in the stock. 
 
 Technologies:
- Windows Forms
- Windows Communication Foundation
- .NET Framework
+ - Windows Forms
+ - Windows Communication Foundation
+ - .NET Framework
 Tools
-Visual Studio 2019
+ - Visual Studio 2019
 Platforms
- x86/x86-64 Windows OS 
+ - x86/x86-64 Windows OS 
